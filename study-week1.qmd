@@ -1,0 +1,19 @@
+---
+title: "eds222-week1-study"
+format: html
+editor: visual
+---
+
+## Chap 1. Hello Data
+
+Proportion of patients who had a stroke
+
+```{r}
+stroke_y <- 45/224
+
+#Group Variable (Treatment or Control). Categorical
+# The number of migraines from the patient Discrete Number
+#
+
+
+```
